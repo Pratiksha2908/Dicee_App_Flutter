@@ -1,4 +1,4 @@
-# dicee_app_flutter
+# dice_app made by flutter
 
 A new Flutter application.
 
