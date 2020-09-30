@@ -1,4 +1,4 @@
-# 🎲 Dice Application made by flutter
+# 🎲 Dice Application made by Flutter
 
 A new Flutter application.
 
