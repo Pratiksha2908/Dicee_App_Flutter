@@ -1,4 +1,4 @@
-# 🎲 dice_app made by flutter
+# 🎲 Dice Application made by flutter
 
 A new Flutter application.
 
